@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakeWasChosen
 - 👀 I’m interested in computers '_'
-- 🌱 I’m currently learning python
+- 🌱 I’m currently doing random stuff :D
 - 💞️ I’m looking to collaborate on small projects 
 - 📫 How to reach me discord @ Jake CEO of annoyance#1904
 
