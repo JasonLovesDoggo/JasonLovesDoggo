@@ -1,0 +1,2 @@
+.print : Print something
+	ANY   →   print(f"$expr$={repr($expr$)}")
