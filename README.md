@@ -11,7 +11,6 @@
 
 Time spent programming since **Jan 7 2022** 
 
-[![wakatime](https://wakatime.com/badge/user/2a0d5ea9-c432-4889-9d3c-0d63d2ba0bc8.svg)](https://wakatime.com/@2a0d5ea9-c432-4889-9d3c-0d63d2ba0bc8)
 ## My Skill Set  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -71,13 +70,11 @@ Time spent programming since **Jan 7 2022**
 ## Github Stats  
 <div align="center"> 
 <a href="https://github.com/JakeWasChosen">
-  <img src="https://github-readme-stats.vercel.app/api?username=JakeWasChosen&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JakeWasChosen&show_icons=true&hide_border=true&count_private=true&theme=github_dark&include_all_commits=true&hide=issues" />
 </a><a href="https://github.com/JakeWasChosen">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeWasChosen&layout=compact" />
-</a><a href="https://github.com/JakeWasChosen">
- <img src="https://github.com/JakeWasChosen/github-stats/blob/master/generated/overview.svg" />
-</a><a href="https://github.com/JakeWasChosen">
- <img src="https://github.com/JakeWasChosen/github-stats/blob/master/generated/languages.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeWasChosen&layout=compact&count_private=true&theme=github_dark&hide_border=true" />
+</a><a href="https://wakatime.com/@JasonLovesDoggo">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=JasonLovesDoggo&layout=compact&theme=github_dark&hide_border=true" />
   </div> 
 <br/>  
 
