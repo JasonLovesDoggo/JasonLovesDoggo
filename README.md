@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Signika&color=%23E7FFFD&size=30&duration=4000&center=true&multiline=true&width=620&height=90&lines=Hey%2C+Im+Jason;For+more+information+please+scroll+down)](https://github.com/JakeWasChosen) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Signika&color=%23E7FFFD&size=30&duration=4000&center=true&multiline=true&width=620&height=90&lines=Hey%2C+Im+Jason;For+more+information+please+scroll+down)](https://github.com/JasonLovesDoggo) 
 
-- 🔭 I’m currently working on [My Personal Website / Portfolio](https://github.com/JakeWasChosen/JakeWasChosen.github.io)  
+- 🔭 I’m currently working on [My Personal Website / Portfolio](https://github.com/JasonLovesDoggo/JasonLovesDoggo.github.io)  
   
 - 🌱 I’m currently learning Javascript and Ruby    
 
@@ -47,7 +47,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/JakeWasChosen" target="_blank">
+<a href="https://github.com/JasonLovesDoggo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/JasonLovesDoggo" target="_blank">
@@ -67,10 +67,10 @@
 
 ## Github Stats  
 <div align="center"> 
-<a href="https://github.com/JakeWasChosen">
-  <img src="https://github-readme-stats.vercel.app/api?username=JakeWasChosen&show_icons=true&hide_border=true&count_private=true&theme=github_dark&include_all_commits=true&hide=issues" />
-</a><a href="https://github.com/JakeWasChosen">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeWasChosen&layout=compact&count_private=true&theme=github_dark&hide_border=true" />
+<a href="https://github.com/JasonLovesDoggo">
+  <img src="https://github-readme-stats.vercel.app/api?username=JasonLovesDoggo&show_icons=true&hide_border=true&count_private=true&theme=github_dark&include_all_commits=true&hide=issues" />
+</a><a href="https://github.com/JasonLovesDoggo">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonLovesDoggo&layout=compact&count_private=true&theme=github_dark&hide_border=true" />
 </a><a href="https://wakatime.com/@JasonLovesDoggo">
   <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=JasonLovesDoggo&layout=compact&theme=github_dark&hide_border=true" />
   </div> 
@@ -79,7 +79,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=JakeWasChosen&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=JasonLovesDoggo&&style=flat-square" align="center" />
 </div>  
   
 
