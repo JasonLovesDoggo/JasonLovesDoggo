@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Signika&color=%23E7FFFD&size=30&duration=4000&center=true&multiline=true&width=620&height=90&lines=Hey%2C+Im+Jason;For+more+information+please+scroll+down)](https://github.com/JasonLovesDoggo) 
 
-- 🔭 I’m currently working on [My Personal Website / Portfolio](https://github.com/JasonLovesDoggo/JasonLovesDoggo.github.io)  
+- 🔭 I’m currently working on [My Personal Website / Portfolio](https://github.com/JasonLovesDoggo/JasonLovesDoggo.github.io)  and [PyWeek 33](https://github.com/robert-abraham/PyWeek-33-March)
   
 - 🌱 I’m currently learning Javascript and Ruby    
 
