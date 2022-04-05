@@ -1,13 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Signika&color=%23E7FFFD&size=30&duration=4000&center=true&multiline=true&width=620&height=90&lines=Hey%2C+Im+Jason;For+more+information+please+scroll+down)](https://github.com/JasonLovesDoggo) 
-
 - 🔭 I’m currently working on [My Personal Website / Portfolio](https://github.com/JasonLovesDoggo/JasonLovesDoggo.github.io)
   
 - 🌱 I’m currently learning Javascript and Ruby    
 
 - ⚡ Fun fact: I use both tabs and spaces  
-  
-
-<br/>  
+<a href="https://discord.com/users/511724576674414600">
+ <img align="right" src="https://lanyard-profile-readme.vercel.app/api/511724576674414600" /> </a>
 
 ## My Skill Set  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -30,7 +28,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Spotify API](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Discord API](https://img.shields.io/badge/Discord%20API-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Reddit API](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
@@ -68,11 +65,12 @@
 ## Github Stats  
 <div align="center"> 
 <a href="https://github.com/JasonLovesDoggo">
-  <img src="https://github-readme-stats.vercel.app/api?username=JasonLovesDoggo&show_icons=true&hide_border=true&count_private=true&theme=github_dark&include_all_commits=true" />
-</a><a href="https://github.com/JasonLovesDoggo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonLovesDoggo&layout=compact&count_private=true&theme=github_dark&hide_border=true" />
-</a><a href="https://wakatime.com/@JasonLovesDoggo">
+  <img src="https://github-readme-stats.vercel.app/api?username=JasonLovesDoggo&show_icons=true&hide_border=true&count_private=true&theme=github_dark&include_all_commits=true" /></a>
+  <a href="https://github.com/JasonLovesDoggo">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonLovesDoggo&layout=compact&count_private=true&theme=github_dark&hide_border=true" /></a>
+  <a href="https://wakatime.com/@JasonLovesDoggo">
   <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=JasonLovesDoggo&layout=compact&theme=github_dark&hide_border=true" />
+</a>
   </div> 
 <br/>  
 
