@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on [A reddit video bot](https://github.com/JasonLovesDoggo/RedditVideoMakerBot)
+- 🔭 I’m currently working on [A reddit video bot](https://github.com/elebumm/RedditVideoMakerBot)
   
 - 🌱 I’m currently learning Javascript and Ruby    
 
