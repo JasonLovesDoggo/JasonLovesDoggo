@@ -1,6 +1,0 @@
-.printt : Print Text
-	ANY   →   print(f'$expr$')
-	
-.printvar : Print something
-	ANY   →   print(f'{$expr$=}')
-

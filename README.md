@@ -1,15 +1,8 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="100%" alt="Hello, I'm Anurag. I do open source!" src="./assets/banner.svg" /></a></p>
 
-
-- 🔭 I’m currently working on [A reddit video bot](https://github.com/elebumm/RedditVideoMakerBot)
-  
-- 🌱 I’m currently learning Javascript and Ruby    
-
-- ⚡ Fun fact: I use both tabs and spaces  
-
+* 🔭 I’m currently working on [A reddit video bot](https://github.com/elebumm/RedditVideoMakerBot)
+- ⚡ Fun fact: I use both tabs and spaces
 - 💬 Ask me about anything [here](https://github.com/JasonLovesDoggo/JasonLovesDoggo/issues)
-
-<a href="https://discord.com/users/511724576674414600">
- <img align="right" src="https://lanyard-profile-readme.vercel.app/api/511724576674414600" /> </a>
 <br/>  
 
 
@@ -23,7 +16,6 @@
 <a href="https://twitter.com/JasonLovesDoggo" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-</a>  
 <a href="https://ko-fi.com/D1D35K2X7"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
 
 </div>  
