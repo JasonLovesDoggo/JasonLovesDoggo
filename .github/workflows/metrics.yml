@@ -30,7 +30,7 @@ jobs:
           base: activity, repositories
           config_timezone: America/Toronto
           config_display: columns
-          config_padding: 0, 15%
+          config_padding: 0, 150%
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
