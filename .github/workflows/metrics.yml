@@ -29,6 +29,7 @@ jobs:
           template: classic
           base: activity, repositories
           config_timezone: America/Toronto
+          config_padding: 0, 15%
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
