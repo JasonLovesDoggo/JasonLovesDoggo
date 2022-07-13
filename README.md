@@ -1,8 +1,7 @@
 <p align="center"><a href="https://anuraghazra.github.io"><img width="100%" alt="Hello, I'm Anurag. I do open source!" src="./assets/banner.svg" /></a></p>
 
 * 🔭 I’m currently working on [A reddit video bot](https://github.com/elebumm/RedditVideoMakerBot)
-- ⚡ Fun fact: I use both tabs and spaces
-- 💬 Ask me about anything [here](https://github.com/JasonLovesDoggo/JasonLovesDoggo/issues)
+* 💬 Ask me about anything [here](https://github.com/JasonLovesDoggo/JasonLovesDoggo/issues)
 <br/>  
 
 
@@ -23,15 +22,15 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"> 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=JasonLovesDoggo&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub Streak"></a>
+
+<img align="left" src="/github-metrics.svg" href="https://github.com/JasonLovesDoggo" alt="Metrics" width="450">
 
 <a href="https://github.com/JasonLovesDoggo">
-  <img src="https://github-readme-stats.vercel.app/api?username=JasonLovesDoggo&show_icons=true&hide_border=true&count_private=true&theme=github_dark&include_all_commits=true" /></a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=JasonLovesDoggo&show_icons=true&hide_border=true&count_private=true&theme=github_dark&include_all_commits=true" /></a>
   </div> 
-<br/>  
 
 <br/>  
+
 
 <div align="center">
 <a> <img src="https://komarev.com/ghpvc/?username=JasonLovesDoggo&&style=flat-square" /> </a>
