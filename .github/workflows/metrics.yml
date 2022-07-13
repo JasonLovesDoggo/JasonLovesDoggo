@@ -27,14 +27,16 @@ jobs:
           # Options
           user: JasonLovesDoggo
           template: classic
-          base: header, activity, repositories, metadata
-          config_timezone: America/New_York
+          base: header, activity, repositories
+          base_hireable: yes
+          base_indepth: yes
+          commits_authoring: JasonLovesDoggo, Jasoncameron.all@gmail.com, thebosssg19@gmail.com
+          config_timezone: America/Toronto
           plugin_habits: yes
           plugin_habits_charts_type: classic
-          plugin_habits_days: 30
+          plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
+          plugin_habits_trim: yes
           plugin_lines: yes
-          plugin_repositories: yes
-          plugin_repositories_featured: elebumm/RedditVideoMakerBot
