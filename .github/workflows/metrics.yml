@@ -27,10 +27,7 @@ jobs:
           # Options
           user: JasonLovesDoggo
           template: classic
-          base: header, activity, repositories
-          base_hireable: yes
-          base_indepth: yes
-          commits_authoring: JasonLovesDoggo, Jasoncameron.all@gmail.com, thebosssg19@gmail.com
+          base: activity, repositories
           config_timezone: America/Toronto
           plugin_habits: yes
           plugin_habits_charts_type: classic
@@ -38,5 +35,4 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
-          plugin_habits_trim: yes
           plugin_lines: yes
