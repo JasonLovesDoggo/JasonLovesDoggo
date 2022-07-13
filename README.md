@@ -6,9 +6,10 @@
 
 ## Github Stats  
 
-<img align="left" src="/github-metrics.svg" href="https://github.com/JasonLovesDoggo" alt="Metrics" width="40%">
+<img align="left" src="/github-metrics.svg" href="https://github.com/JasonLovesDoggo" alt="Metrics" width="50%">
+
 <a href="https://github.com/JasonLovesDoggo">
-  <img width="80%" height="80" align="right" src="https://github-readme-stats.vercel.app/api?username=JasonLovesDoggo&show_icons=true&hide_border=true&count_private=true&theme=github_dark&include_all_commits=true" /></a>
+  <img width="45%" height="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=JasonLovesDoggo&show_icons=true&hide_border=true&count_private=true&theme=github_dark&include_all_commits=true" /></a>
   </div> 
 
 <br/>  
