@@ -28,6 +28,7 @@ jobs:
           user: JasonLovesDoggo
           template: classic
           base: activity, repositories
+          commits_authoring: jake, JasonLovesDoggo, jasoncameron.all@gmail.com, thebosssg19@gmail.com
           config_timezone: America/Toronto
           config_display: columns
           config_padding: 0, 130%
