@@ -1,6 +1,6 @@
 <p align="center"><a href="https://jasonlovesdoggo.github.io/"><img width="100%" alt="Hello, I'm Anurag. I do open source!" src="./assets/banner.svg" /></a></p>
 
-* 🔭 I’m currently working on [A reddit video bot](https://github.com/elebumm/RedditVideoMakerBot)
+* 🔭 I’m currently working on [Metropolis](https://github.com/wlmac/metropolis)
 * 💬 Ask me about anything [here](https://github.com/JasonLovesDoggo/JasonLovesDoggo/issues)
 <br/>  
 
