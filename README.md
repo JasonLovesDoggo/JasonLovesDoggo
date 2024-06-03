@@ -4,8 +4,9 @@
 * 💬 Ask me about anything [here](https://github.com/JasonLovesDoggo/JasonLovesDoggo/issues)
 <br/>  
 
-<img align="center" src="/github-metrics.svg" href="https://github.com/JasonLovesDoggo" alt="Metrics">
-
+<div align="center">
+<img src="/github-metrics.svg" href="https://github.com/JasonLovesDoggo" width="100%" alt="Metrics">
+</div>
 
 <br/>  
 
