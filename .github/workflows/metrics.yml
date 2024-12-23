@@ -28,7 +28,7 @@ jobs:
           user: JasonLovesDoggo
           template: classic
           base: header, activity, community, repositories, metadata
-          commits_authoring: JasonLovesDoggo, JakeWasChosen, git@jasoncameron.dev
+          commits_authoring: JasonLovesDoggo, JakeWasChosen, git@jasoncameron.dev, jason@jasoncameron.dev
           config_display: columns
           config_octicon: yes
           config_timezone: America/Toronto
@@ -40,19 +40,18 @@ jobs:
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout_repositories: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: bytes-sized
           plugin_languages_ignored: HTML, Less, SCSS, TypeScript, Processing, EJS
           plugin_languages_indepth: yes
-          plugin_languages_indepth_custom: jasonlovesdoggo/abacus, jasonlovesdoggo/tej3m
           plugin_languages_limit: 10
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 300
+          plugin_languages_recent_load: 100
           plugin_languages_sections: most-used, 
           plugin_lines: yes
           plugin_lines_delay: 3
@@ -64,10 +63,10 @@ jobs:
           plugin_notable_from: all
           plugin_notable_repositories: yes
           plugin_notable_self: yes
-          plugin_notable_types: commit
-          plugin_people: yes
-          plugin_people_identicons_hide: yes
-          plugin_people_limit: 24
-          plugin_people_shuffle: yes
-          plugin_people_size: 24
-          plugin_people_types: followers, following
+          plugin_notable_types: commit, pull_request
+          # plugin_people: yes
+          # plugin_people_identicons_hide: yes
+          # plugin_people_limit: 24
+          # plugin_people_shuffle: yes
+          # plugin_people_size: 24
+          # plugin_people_types: followers, following
