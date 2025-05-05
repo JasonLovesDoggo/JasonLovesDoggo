@@ -5,5 +5,5 @@
 <br/>
 
 <div align="center">
-<a href="https://abacus.jasoncameron.dev"> <img src="https://abacus.jasoncameron.dev/hit/jasoncameron/github/shield?font=jetbrains-mono&text=visits&color=48ACF0&bgcolor=e59b4f" /> </a>
+<a href="https://abacus.jasoncameron.dev"> <img src="https://abacus.jasoncameron.dev/hit/jasoncameron/github/shield?font=jetbrains-mono&text=visits&bgcolor=e59b4f&color=48ACF0" /> </a>
 </div> 
