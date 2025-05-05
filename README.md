@@ -1,12 +1,9 @@
-<p align="center"><a href="https://jasonlovesdoggo.github.io/"><img width="100%" alt="Hello, I'm Jason. I do automation!" src="./assets/banner.svg" /></a></p>
-
-* 🔭 I’m currently working on [Metropolis](https://github.com/wlmac/metropolis), [Abacus](https://github.com/Jasonlovesdoggo/abacus) & [Wlmoj](https://github.com/mcpt/wlmoj)
-<div align="center">
-<img src="/github-metrics.svg" href="https://github.com/JasonLovesDoggo" width="100%" alt="Metrics">
-</div>
-
-<br/>  
+<p align="center">
+  <img src="./assets/lofi-gopher-4-min.png" alt="lofi-gopher" width="310" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jasonlovesdoggo&show_icons=true&line_height=27&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true&text_color=e59b4f&icon_color=48ACF0&bg_color=00000000&card_width=400&show=prs_merged" alt="Jason Cameron's GitHub Stats" />
+</p>
+<br/>
 
 <div align="center">
-<a> <img src="https://komarev.com/ghpvc/?username=JasonLovesDoggo&&style=flat-square" /> </a>
+<a href="https://abacus.jasoncameron.dev"> <img src="https://abacus.jasoncameron.dev/hit/jasoncameron/github/shield?font=jetbrains-mono&text=visits&color=48ACF0&bgcolor=e59b4f" /> </a>
 </div> 
