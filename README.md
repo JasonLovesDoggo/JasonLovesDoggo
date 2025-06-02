@@ -5,7 +5,7 @@
 </p>
 </a>
 <p align="center" size=small>
-If you like the cool stuff I make, consider sponsoring me! It'll help cover infrastructure costs
+If you like the cool stuff I make, please consider sponsoring me! It'll help cover infrastructure costs
 </p>
 <br/>
 
